@@ -26,6 +26,12 @@ Google Form → Google Sheets → ChatGPT (Prompt Engine) → Output Stored in S
 - Gap analysis
 - Personalized learning roadmap
 
+## Limitations
+
+- No fully automated backend due to lack of paid API integration
+- AI execution is manually triggered in ChatGPT
+- Designed as functional prototype, not production system
+
 ## Tools Used
 - Google Forms (input interface)
 - Google Sheets (data storage)
